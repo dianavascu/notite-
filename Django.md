@@ -1,4 +1,5 @@
-[[# Django **Categorie:** [[Back-End]] **Instrumente folosite:** [[VS Code]], [[Baze de Date SQL]] --- ## 📌 Ce este Django? Un framework de dezvoltare web în Python care te ajută să creezi rapid aplicații Back-End securizate. ## 🔑 Concepte Cheie * **MVT (Model-View-Template):** Modul în care Django organizează codul. * **ORM:** Îți permite să lucrezi cu [[Baze de Date SQL]] direct folosind cod Python. ## 💻 Comenzi uzuale * `python manage.py runserver` — Pornește serverul local de test.
+[[# Django 
+**Instrumente folosite:** [[VS Code]], [[Baze de Date SQL]] --- ## 📌 Ce este Django? Un framework de dezvoltare web în Python care te ajută să creezi rapid aplicații Back-End securizate. ## 🔑 Concepte Cheie Modul în care Django organizează codul.Îți permite să lucrezi cu [[Baze de Date SQL]] direct folosind cod Python. ## 💻 Comenzi uzuale * `python manage.py runserver` — Pornește serverul local de test.
 - **Arhitectura MVT (Model-View-Template):**
     - **Model:** Definește structura datelor și conexiunea cu baza de date.
     - **View:** Conține logica aplicației (procesează cererile și pregătește datele).
