@@ -1,0 +1,1 @@
+ Front-End-ul reprezintă interfața vizuală cu care interacționează utilizatorul (HTML, CSS, JavaScript), în timp ce Back-End-ul reprezintă logica din spate, gestionată de un framework precum Django (scris în Python).

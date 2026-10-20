@@ -1,0 +1,1 @@
+Este cel mai popular editor de cod gratuit, ce include un terminal integrat și extensii dedicate pentru Python, șabloane Django și explorarea bazelor de date.

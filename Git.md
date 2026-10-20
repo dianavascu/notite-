@@ -1,0 +1,1 @@
+Sistemul Git îți permite să salvezi istoricul proiectelor tale web și al notițelor din Obsidian, sincronizându-le în siguranță pe GitHub.

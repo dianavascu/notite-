@@ -1,0 +1,1 @@
+Django include un sistem ORM (Object-Relational Mapper) care îți permite să lucrezi cu baze de date relaționale (SQLite, PostgreSQL, MySQL) scriind cod Python, fără a fi nevoie de interogări SQL complexe.
