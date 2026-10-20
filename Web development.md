@@ -1,0 +1,1 @@
+[[# Harta de învățare: Web Development ## 🛠️ Instrumente de lucru * Editor de cod: [[VS Code]] * Salvare și colaborare: [[Git ]] ## 🌐 Structura unei aplicații Web * Partea vizuală (Client): [[Front-End]]  [[Back-End]] ## 🐍 Tehnologii Back-End * Framework Python: [[Django]] * Salvarea datelor: [[Baze de Date SQL]] .
