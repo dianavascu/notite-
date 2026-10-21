@@ -1,5 +1,0 @@
-- **React** (de la Meta): Cea mai populară librărie, bazată pe componente reutilizabile și Virtual DOM.
-- **Vue.js**: Un framework progresiv, foarte ușor de învățat și flexibil.
-- **Angular** (de la Google): Un cadru complet de lucru (_full-featured_), ideal pentru aplicații mari la nivel de întreprindere.
-- **Svelte**: Un framework de nouă generație ce compilează codul la timpul de construire pentru o viteză maximă.
-- **Tailwind CSS**: Un framework utilitar de CSS care accelerează stilizarea direct din codul HTML.
