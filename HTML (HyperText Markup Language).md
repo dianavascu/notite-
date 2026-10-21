@@ -1,0 +1,1 @@
+Este limbajul de marcat ce constituie structura și scheletul oricărui site web (titluri, paragrafe, formulare, imagini și etichete semantice).

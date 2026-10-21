@@ -1,0 +1,1 @@
+Se ocupă de stilizarea vizuală, culori, fonturi și așezare în pagină (_layout_), folosind sisteme moderne precum **Flexbox** și **CSS Grid** pentru a asigura adaptabilitatea pe orice ecran (_Responsive Web Design_).
