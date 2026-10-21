@@ -1,0 +1,1 @@
+Limbajul de programare care adaugă dinamism și interactivitate paginii. Permite manipularea în timp real a DOM-ului, gestionarea evenimentelor utilizatorului și preluarea de date de la servere prin cereri asincrone (_Fetch API_).
